@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+ }
+
+ .heading
+ {
+     font-size: 23px;
+     width: 100%;
+     margin: 0px;
+ }
+
+ .copy_right_footer {
+     position: fixed;
+     color: pink;
+     bottom: 0;
+     width: 100%;
+     background-color: plum;
+     line-height: 3;
+     text-align: center;
+ }
